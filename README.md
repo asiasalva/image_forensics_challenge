@@ -6,8 +6,8 @@ To run get_map function there are no special options: just like a normal matlab 
 
 * Information about the environment used and requirements for running the code
 
- * JPEG ToolBox by Phil Sallee
- * support_functions from the MDS Lab Lecture of the 22nd November 2019
+  * JPEG ToolBox by Phil Sallee
+  *support_functions from the MDS Lab Lecture of the 22nd November 2019
 
 * References
 
